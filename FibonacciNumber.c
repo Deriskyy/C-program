@@ -15,7 +15,7 @@ int main()
    scanf("%d",&num);
    
    int i
-   for (i=0,i<n+1;i++);
+   for (i = 0; i < n + 1; i++);
    
    printf("The &d_th Fibonacci number is %d\n",num,Fib(num));
    retunr 0;
